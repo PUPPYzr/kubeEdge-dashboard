@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # KubeEdge Dashboard
 
 ## Introduction
@@ -98,3 +99,7 @@ If you're interested in being a contributor and want to get involved in developi
 
 ## License
 KubeEdge is under Apache 2.0 license. See the [LICENSE](LICENSE) file for details.
+=======
+# kubeEdge-dashboard
+更新了DeploymentForms\BasicInfoForm.tsx 和DeploymentDrawer\index.tsx 初次add deployment就会提示namespace和name未添加的不合理需求 在点击next存在上述项未填写时才会提示 并且此时next不会跳转到下一表单
+>>>>>>> c070e72bc3785abfcd0a237372cebc88932bed26
