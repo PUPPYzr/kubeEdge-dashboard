@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # KubeEdge Dashboard
 
 ## Introduction
