@@ -1,0 +1,2 @@
+# kubeEdge-dashboard
+更新了DeploymentForms\BasicInfoForm.tsx 和DeploymentDrawer\index.tsx 初次add deployment就会提示namespace和name未添加的不合理需求 在点击next存在上述项未填写时才会提示 并且此时next不会跳转到下一表单
